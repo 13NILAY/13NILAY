@@ -17,20 +17,14 @@ I'm a passionate developer specializing in building scalable web applications wi
 
 ## 💼 Technical Skills
 
-**Languages**  
-JavaScript • Java • Python • C++ • C
-
-**Frontend Development**  
-React.js • Redux • HTML5 • CSS3 • TailwindCSS
-
-**Backend Development**  
-Node.js • Express.js • RESTful APIs • Spring Boot (learning)
-
-**Databases**  
-MongoDB • PostgreSQL • MySQL
-
-**Tools & DevOps**  
-Git • Docker • Postman • VSCode • IntelliJ IDEA
+```text
+Languages        →  JavaScript • Java • Python • C++ • C
+Frontend         →  React.js • Redux • HTML5 • CSS3 • TailwindCSS
+Backend          →  Node.js • Express.js • RESTful APIs • Spring Boot
+AI/ML            →  Machine Learning • NLP • Deep Learning • OpenAI API
+Databases        →  MongoDB • PostgreSQL • MySQL
+Tools & DevOps   →  Git • Docker • Postman • VSCode • IntelliJ IDEA
+```
 
 ---
 
