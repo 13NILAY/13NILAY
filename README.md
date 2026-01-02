@@ -268,19 +268,39 @@ Impact: Empowering brands to scale their online presence
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=13NILAY&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13NILAY&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9"/>
+| 🎯 **Focus Areas** | 💻 **Tech Stack** | 🚀 **Projects** |
+|:---:|:---:|:---:|
+| Full-Stack Development | Node.js, React, MongoDB | 15+ Repositories |
+| AI/ML Engineering | Python, TensorFlow, NLP | 5 Major Projects |
+| System Design | Spring Boot, PostgreSQL | Open Source Contributor |
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=13NILAY&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
+### 🔥 Recent Activity Highlights
+
+🎯 **265+ Total Contributions** across multiple repositories  
+⚡ **Active in** JavaScript, Python, Java, and C++  
+🌟 **Open to collaborations** on AI/ML and Full-Stack projects  
+📦 **Building** scalable applications with modern tech stacks
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**📈 View My Full GitHub Profile**
+
+[![GitHub Profile](https://img.shields.io/badge/Visit_GitHub-13NILAY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/13NILAY)
+[![GitHub Repos](https://img.shields.io/badge/Explore_Repositories-15+-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/13NILAY?tab=repositories)
 
 </div>
 
