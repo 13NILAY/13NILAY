@@ -2,7 +2,7 @@
 
 # 👨‍💻 Nilay Rathod
 
-### Full-Stack Developer | AI/ML Engineer | Problem Solver
+### Full-Stack Developer | Problem Solver
 
 *Building the future, one commit at a time* 🚀
 
