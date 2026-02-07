@@ -105,7 +105,7 @@
     </td>
     <td align="center" width="50%">
       <br>
-      <img src="https://img.icons8.com/fluency/96/000000/teaching.png" width="80"/>
+      <img src="https://github.com/13NILAY/13NILAY/blob/main/assets/Unicode.png" width="80"/>
       <h3>👨‍🏫 DJ-UNICODE Mentor</h3>
       <em>Computer Engineering Development Committee</em>
       <br><br>
