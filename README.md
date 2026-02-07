@@ -18,7 +18,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,java,cpp,react,redux,nodejs,express,spring,mongodb,postgres,mysql,tensorflow,docker,git,github,tailwind,html,css,postman" />
+  <img src="https://skillicons.dev/icons?i=js,py,java,cpp,react,redux,nodejs,express,mongodb,postgres,mysql,tensorflow,docker,git,github,tailwind,html,css,postman,vscode" />
 </p>
 
 ---
@@ -88,10 +88,6 @@
 
 ## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=13NILAY&theme=algolia&no-frame=true&row=1&column=7" />
-</p>
-
 <table>
   <tr>
     <td align="center" width="50%">
@@ -125,19 +121,39 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Quick Stats
+
+<div align="center">
+
+| 💻 **Language Expertise** | 🚀 **Focus Areas** | 🎯 **Projects** |
+|:---:|:---:|:---:|
+| JavaScript, Python, Java | Full-Stack + AI/ML | 5+ Production Apps |
+| React, Node.js, Express | System Design | Developer Community |
+| MongoDB, PostgreSQL | Cloud Architecture | Mentorship |
+
+</div>
+
+<br>
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=13NILAY&show_icons=true&theme=radical&border_radius=12&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=13NILAY&layout=compact&theme=radical&border_radius=12&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=13NILAY&theme=radical&hide_border=true&border_radius=12&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=764ba2" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=13NILAY&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=667eea&line=764ba2&point=c9d1d9" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=13NILAY&custom_title=Nilay%20Rathod's%20Contribution%20Graph&bg_color=0D1117&color=667eea&line=764ba2&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 ---
