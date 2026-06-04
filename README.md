@@ -97,7 +97,7 @@
       <em>Educational language for kids (10-14 years)</em>
       <br><br>
       ✅ Custom compiler using JavaCC<br>
-      ✅ Taught 100+ children to code<br>
+      ✅ Beginner Friendly<br>
       ✅ Natural language-inspired syntax
       <br><br>
       <code>Java</code> <code>Compiler Design</code> <code>Education</code>
