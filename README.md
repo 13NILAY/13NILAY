@@ -37,7 +37,7 @@
       📊 Real-time ESG tracking • 🌱 Carbon analysis<br>
       📈 AI insights • 📋 Compliance reports
       <br><br>
-      <a href="https://github.com/13NILAY/EcoLens"><strong>View Project →</strong></a>
+      <a href="https://github.com/13NILAY/EcoLens-An-AI-Powered-ESG-and-Carbon-Footprint-Analyzer"><strong>View Project →</strong></a>
       <br><br>
     </td>
     <td align="center" width="50%">
