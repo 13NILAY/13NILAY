@@ -190,14 +190,10 @@ I'm a **Computer Engineering graduate** from Mumbai, India, transitioning from F
 ### 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=13NILAY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00c9a7&icon_color=00c9a7" />
+<img height="165" src="https://github-readme-stats-three-orcin-62.vercel.app/api?username=13NILAY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00c9a7&icon_color=00c9a7" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=13NILAY&theme=tokyonight&hide_border=true&background=0D1117&ring=00c9a7&fire=00c9a7&currStreakLabel=00c9a7" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=13NILAY&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00c9a7&langs_count=8" />
-
+<img src="https://github-readme-stats-three-orcin-62.vercel.app/api/top-langs/?username=13NILAY&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00c9a7&langs_count=8" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=13NILAY&custom_title=Contribution%20Activity&bg_color=0D1117&color=00c9a7&line=764ba2&point=ffffff&area=true&hide_border=true" width="90%" />
-
 </div>
 
 ---
