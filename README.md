@@ -103,33 +103,64 @@ I'm a **Computer Engineering graduate** from Mumbai, India, transitioning from F
 
 ### 🚀 Featured AI/ML Projects
 
-#### 🌍 EcoLens — AI-Powered ESG Intelligence Platform
-> **Problem:** Companies file dense, unstructured BRSR and annual reports, making it slow and error-prone for analysts to extract and benchmark sustainability metrics manually.
-> **Approach:** Built Flask and Node.js data pipelines to automate ESG metric extraction, company benchmarking, and sustainability scoring, powered by an NLP and regex-based information extraction engine.
-> **Key Techniques:** NLP-based information extraction, regex pattern matching, automated validation workflows, PDF parsing
-> **Result:** Automatically identifies emissions, energy, water, and waste metrics from unstructured PDF reports and benchmarks them across companies
-> **Repo:** [github.com/13NILAY/EcoLens](https://github.com/13NILAY/EcoLens-An-AI-Powered-ESG-and-Carbon-Footprint-Analyzer)
-
-#### 💳 CreditWise — Loan Approval Prediction
-> **Problem:** Lenders need a fast, data-driven way to assess whether an applicant is likely to be approved for a loan.
-> **Approach:** Built an end-to-end supervised ML pipeline comparing multiple classifiers on applicant financial data.
-> **Key Techniques:** Data preprocessing, EDA, feature engineering, encoding, feature scaling, Logistic Regression, K-Nearest Neighbors (KNN), Naive Bayes
-> **Result:** Compared models using Accuracy, Precision, Recall, F1-Score, and Confusion Matrix to identify the best-performing classifier for loan approval prediction
-> **Repo:** [https://github.com/13NILAY/CreditWise_Loan_System]
-
-#### 🛒 SmartCart — Customer Segmentation
-> **Problem:** Retailers lack visibility into distinct customer behavior groups, making targeted marketing difficult.
-> **Approach:** Built an end-to-end unsupervised ML pipeline using **K-Means Clustering** to segment customers by purchasing behavior and shopping patterns.
-> **Key Techniques:** EDA, feature engineering, outlier handling, encoding, feature scaling, dimensionality reduction (PCA), Elbow Method & Silhouette Score for cluster optimization
-> **Result:** Optimized customer segments with clear cluster visualizations (Matplotlib/Seaborn) and business insights for targeted marketing
-> **Repo:** [https://github.com/13NILAY/SMART_CART_CLUSTERING_SYSTEM]
-
-#### 🎙️ AI Interview Assistant — Mock Interview & Feedback System
-> **Problem:** Candidates need realistic, low-cost ways to practice interviews and receive objective feedback.
-> **Approach:** Built an AI-powered platform that converts spoken responses to structured transcripts via speech-to-text, evaluates them using Generative AI, and analyzes candidate expressions through a facial emotion recognition module.
-> **Key Techniques:** Generative AI-based feedback generation, speech-to-text transcription, ML-based facial emotion recognition
-> **Result:** End-to-end mock interview platform delivering personalized feedback plus non-verbal (emotion-based) interview insights
-> **Repo:** [https://github.com/13NILAY/AI_INTERVIEW_ASSISTANT]
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌍 EcoLens</h4>
+      <em>AI-Powered ESG Intelligence Platform</em>
+      <br><br>
+      <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/-NLP-00c9a7?style=flat-square"/>
+      <br><br>
+      📄 Extracts ESG metrics from unstructured BRSR/annual reports<br>
+      🔍 NLP + regex-based information extraction engine<br>
+      📊 Automates company benchmarking & sustainability scoring<br>
+      ✅ Built-in automated validation workflows
+      <br><br>
+      <a href="https://github.com/13NILAY/EcoLens-An-AI-Powered-ESG-and-Carbon-Footprint-Analyzer"><strong>View Project →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💳 CreditWise</h4>
+      <em>Loan Approval Prediction System</em>
+      <br><br>
+      <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-Classification-00c9a7?style=flat-square"/>
+      <br><br>
+      🎯 Predicts loan approval eligibility for applicants<br>
+      🧮 Logistic Regression, KNN & Naive Bayes compared<br>
+      🛠️ Full pipeline: EDA, feature engineering, encoding, scaling<br>
+      📈 Evaluated via Accuracy, Precision, Recall, F1, Confusion Matrix
+      <br><br>
+      <a href="https://github.com/13NILAY/CreditWise_Loan_System"><strong>View Project →</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛒 SmartCart</h4>
+      <em>Unsupervised Customer Segmentation</em>
+      <br><br>
+      <img src="https://img.shields.io/badge/-K--Means-F7931E?style=flat-square"/> <img src="https://img.shields.io/badge/-PCA-00c9a7?style=flat-square"/> <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+      <br><br>
+      🧩 Segments customers by purchasing behavior<br>
+      📉 Dimensionality reduction using PCA<br>
+      🔢 Elbow Method + Silhouette Score for optimal clusters<br>
+      🎨 Cluster visualization via Matplotlib/Seaborn
+      <br><br>
+      <a href="https://github.com/13NILAY/SMART_CART_CLUSTERING_SYSTEM"><strong>View Project →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎙️ AI Interview Assistant</h4>
+      <em>Mock Interviews with Real-Time Feedback</em>
+      <br><br>
+      <img src="https://img.shields.io/badge/-Generative%20AI-412991?style=flat-square"/> <img src="https://img.shields.io/badge/-Speech--to--Text-00c9a7?style=flat-square"/> <img src="https://img.shields.io/badge/-Computer%20Vision-F7931E?style=flat-square"/>
+      <br><br>
+      🎤 Converts spoken answers to structured transcripts<br>
+      🤖 GenAI-based personalized feedback generation<br>
+      😊 Facial emotion recognition for non-verbal insights<br>
+      📈 End-to-end candidate evaluation platform
+      <br><br>
+      <a href="https://github.com/13NILAY/AI_INTERVIEW_ASSISTANT"><strong>View Project →</strong></a>
+    </td>
+  </tr>
+</table>
 
 <details>
 <summary><b>🧩 More Projects (Full-Stack & Systems)</b></summary>
